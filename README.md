@@ -16,13 +16,8 @@ The island also offers restaurants, lodging, transportation services, and touris
 
 ### Prototype Website
 
-#### Live
-
 The project is published with GitHub Pages and can be viewed [here](https://peteraraujo.github.io/taniti).
 
-#### Code
-
-Website files can be found in the `gh-pages` branch.
 
 ### Project Goals
 
